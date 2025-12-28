@@ -10,6 +10,7 @@ This machine learning project focuses on detecting fake news articles using natu
   - `1` = Fake News
   - `0` = Real News
 - **Features**: id, title, author, text, label
+- Download the **Dataset:** [Fake News Dataset](https://drive.google.com/file/d/12iw6qatKrygwviBePvWzpllJJmBru_Yg/view?usp=sharing)
 
 ## 🛠️ Technologies Used
 - **Python 3**
